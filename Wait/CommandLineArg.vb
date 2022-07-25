@@ -33,7 +33,7 @@
                 End If
 
                 '---- Double-dash No Assignment
-                xtrace_i("DDN Name = " & Name)
+                xtrace_i("DDN Name = " & SwName)
 
                 If SwName = "help" Then
                     ShowHelp()
